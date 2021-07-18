@@ -30,6 +30,8 @@
 
 RabbitMQ的HTTP API接口:   
 `curl -i -u test:123456 http://192.168.31.90:15672/api/vhosts`
+![image](https://user-images.githubusercontent.com/8916060/126054336-db5213a0-fbcd-4094-a701-0f680006fb1c.png)
+
 
 参考资料:   
 https://blog.csdn.net/qq_39135287/article/details/95725385
